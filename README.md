@@ -1,4 +1,5 @@
 # CNN-Extraction-Column
+The project report CNN for automatic process supervision group 5.2.pdf can be read for further details
 
 Machine_Learning_RF_Extraction_Classification-ErtuğrulFurkanDüzenli(Python File)
 
@@ -62,7 +63,7 @@ Native Parts of Furkan from the report:
 -CNN Pretrained Net
 -Random Forest, gabor and sobel filters
 
-The other parts of thereport were done with equal amount of work from both parties
+The other parts of the report were done with equal amount of work from both parties
 
 
 
